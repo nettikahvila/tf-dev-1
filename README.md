@@ -2,7 +2,9 @@
 
 ## terraform
 
-```terraform.tfvars
+`terraform.tfvars`
+
+```terraform
 hcloud_token = ""
 ```
 
